@@ -22,3 +22,8 @@ bash ./so_long maps/[map au choix]
 
 et... ENJOY !
 
+## But du Jeu ?
+
+- Récupérer les bacons *le plus vite* et avec *le moins de pas possibles* !
+
+- Débloquer les **5** fins possibles du jeu !
