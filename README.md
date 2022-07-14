@@ -16,7 +16,7 @@ Avertissement : ce jeu comporte des scènes, des propos ou des images pouvant he
 ## Comment ça marche ?
 
 ```bash
-git clone https://github.com/vietdu91/42_so_long.git
+git clone https://github.com/vietdu91/42_so_long_Les-Aventures-de-Peppa-Pig.git
 bash ./so_long maps/[map au choix]
 ```
 
